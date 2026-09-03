@@ -1,5 +1,5 @@
 # gta-6-in-python-real
-100% real GTA 7 Python source code. Do not scroll down on the source code or Rockstar agents will intercept your IP address.
+100% real GTA 7 Python source code. Do not scroll down past the Python interpreter header.
 
 ## features
 - gives free robux sometimes (stochastic economy engine).
@@ -12,4 +12,4 @@
 - At least 48 petabytes of RAM
 - Blind optimism
 
-⚠️ Disclaimer: Do not get confused by this file being a C extension; C extensions support both Python and C code! Please do not expect a $2 billion game to run from a 43-line C file that just prints `Wasted` and exits with code 1.
+⚠️ Disclaimer: Do not get confused by this file being a C extension; C extensions support both Python and C code! Please do not expect a $2 billion game to run from a script that defines `Map = Big`, threatens you with `bombombombobmbom` if you hack, and makes you wait 10 years for assets to load.
