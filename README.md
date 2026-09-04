@@ -9,7 +9,7 @@
 - 100% real leaks stolen from a USB drive found in a parking lot.
 
 ## requirements
-- Python 3.12 (or a toaster with a good internet connection)
+-  having a trojan installed (or a toaster with a good internet connection)
 - At least 48 petabytes of RAM
 - Blind optimism
 
