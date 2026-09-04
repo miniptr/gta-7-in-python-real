@@ -13,4 +13,4 @@
 - At least 48 petabytes of RAM
 - Blind optimism
 
-⚠️ Disclaimer: This is just a joke! It is not leaked GTA 7 source code or any trojans
+⚠️ Disclaimer: Do not take this seriously. It is not leaked GTA 7 source code or any trojans, just a joke I decided to make when I got bored.
