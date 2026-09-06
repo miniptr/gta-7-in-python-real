@@ -2,7 +2,7 @@
 100% real GTA 7 Python source code. Do not scroll down past the Python interpreter header.
 
 ## features
-- has a ready, compiled executable that is NOT a trojan.
+- has a ready, compiled executable that is NOT a trojan
 - gives free robux sometimes (stochastic economy engine).
 - renders GTA 7 on 999 FPS via pure terminal ASCII art.
 - contains source code (trust me bro).
